@@ -5,7 +5,6 @@ hello git! hello atguigu!hello git! hello atguigu!hello git! hello atguigu!
 hello git! hello atguigu!hello git! hello atguigu!hello git! hello atguigu!
 hello git! hello atguigu!hello git! hello atguigu!hello git! hello atguigu!
 hello git! hello atguigu!hello git! hello atguigu!hello git! hello atguigu!
-<<<<<<< HEAD
 hello git! hello atguigu!hello git! hello atguigu!hello git! hello atguigu!master
 hello git! hello atguigu!hello git! hello atguigu!hello git! hello atguigudfd
 hello git! hello atguigu!hello git! hello atguigu!hello git! hello atguigu!fd
